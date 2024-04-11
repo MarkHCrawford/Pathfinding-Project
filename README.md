@@ -1,8 +1,9 @@
 # Pathfinding-Project
 Unity Project for CSC350H, Professor Tang
 ---
-< br/> 
-< br/> 
+<br />
+<br /> 
+
 ## Team Members: 
 - Mark Crawford
 - Ayana Tran
